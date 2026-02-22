@@ -12,7 +12,6 @@ This repository provides a collection of **statically linked** ELF 32-bit ARM (L
 ## 📺 Demo
 
 ![ARM Binaries in Action](demo.gif)
-*Placeholder for a demo showcasing the execution of various tools like htop or nmap on an ARM device.*
 
 ## 📂 Available Tools
 
